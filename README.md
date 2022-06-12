@@ -1,8 +1,21 @@
-# Getting Started with Create React App
+
+# Travel Advisor 
+
+![image](https://user-images.githubusercontent.com/102985938/173249898-272e8614-ca4e-458d-b977-3ccee062cd2f.png)
+
+Project Website: https://luis0830.github.io/travel-advisor/
+
+# What I learned:
+I learned how to build an advanced travel companion APP using Google maps with geolocation API, the ability to search for places, fetching restaurants, hotels and attractions based on location from specialized rapid APIs, data filtering and much more, I learned advanced React best practices, I also learned how to create user interfaces using Material UI and fetching data from unlimited sources using Rapid API. It was a great experience to learn and parctice my programing skills on the way.
+
+# How it's made:
+React Hooks, Google maps API, Rapid API - (travel advisor API), Axios, Material UI
+
+### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
